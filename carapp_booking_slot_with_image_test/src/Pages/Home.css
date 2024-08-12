@@ -1,0 +1,24 @@
+.home-container {
+    background-color: #f5f7f8;
+    padding: 20px;
+    margin: 20px auto;
+    max-width: 800px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
+
+.home-container h1 {
+    font-size: 28px;
+    color: #333;
+    margin-bottom: 20px;
+}
+
+.car-image {
+    width: 100%; 
+    height: auto;
+    border-radius: 8px;
+    margin-bottom: 20px; 
+}
+  

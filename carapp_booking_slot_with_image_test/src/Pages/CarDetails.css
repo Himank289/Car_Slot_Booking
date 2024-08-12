@@ -1,0 +1,29 @@
+.car-details-container {
+    background-color: #f0f0f0; 
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 20px;
+    margin: 20px auto; 
+    max-width: 300px; 
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    text-align: left; 
+}
+
+.car-details-container h1 {
+    font-size: 24px; 
+    color: #333;
+    margin-bottom: 10px;
+}
+
+.car-details-container p {
+    font-size: 16px; 
+    color: #666;
+    margin: 8px 0;
+}
+
+.car-details-container img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 8px;
+    margin-top: 10px;
+}
